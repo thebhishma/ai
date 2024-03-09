@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(28, 9, 45);
+}
+h1{
+color: white;
+font-family: impact;
+font-size: 65px;
+text-align: center;
+padding-top: 70px;
+font-weight: 300px;
+text-shadow: 2px black;
+}
+h1:hover{
+    color: cadetblue;
+}
+.pic{
+
+    margin: auto;
+    margin-top:0;   
+    text-align: left;
+}
+.text{
+        color: white;
+        font-size: large;
+        font-family: serif;
+        padding-top: 0px;
+        width: 713px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        height: 500px;
+        margin-bottom: 1000px;
+        margin: 300px;
+        margin-top: 0;
+        border: 0px white dotted;
+        position: absolute;
+        top: 200px;
+        left: 282px;
+        margin-left: 300px;
+        margin-right: 200px;
+        height: 248px;
+
+    }
+    p{
+        margin-right: 100px;
+        text-align: justify;
+        word-spacing: 1px;
+        line-height: 1.9;
+    }
+    mark{
+       color: red;
+       background-color: green;
+    }
+    mark:hover{
+        color:white;
+    }
